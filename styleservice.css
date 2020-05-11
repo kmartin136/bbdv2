@@ -1,0 +1,30 @@
+@charset "UTF-8";
+@import url("../webfonts/JandaQuirkygirl/stylesheet.css");
+.header {
+    font-family: JandaQuirkygirl;
+    font-size: 30px;
+    letter-spacing: 22px;
+    width: 1080px;
+    height: 47px;
+    padding-left: 120px;
+    margin-left: 23px;
+}
+.background article p {
+    width: 705px;
+    margin-left: 329px;
+    margin-top: -175px;
+}
+
+.main .background {
+    background-image: url(Images/crafttable.jpeg);
+    width: 1080px;
+    height: 700px;
+    margin-left: 120px;
+    margin-right: 20px;
+}
+.navigation li a {
+    width: 1080px;
+    height: 18px;
+    margin-left: 98px;
+    margin-right: 98px;
+}
