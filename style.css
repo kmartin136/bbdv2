@@ -1,0 +1,81 @@
+.title {
+    letter-spacing: 13px;
+    text-transform: uppercase;
+}
+.tagline {
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    font-size: 15px;
+    color: #FE022F;
+    text-align: right;
+    margin-top: -26px;
+}
+
+.header {
+    width: 960px;
+    margin-right: auto;
+    margin-left: auto;
+    height: 99px;
+    font-family: JandaQuirkygirl;
+    background-image: url("bbdv2/Images/fleecefabric.jpg");
+}
+    .logo {
+    margin-top: -79px;
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    height: 80px;
+    width: 80px;
+    text-align: left;
+}
+    .businessname {
+    margin-top: 6px;
+    margin-left: 103px;
+    margin-bottom: 8px;
+    height: 80px;
+    width: 700px;
+    background-image: url("bbdv2/Images/fleecefabric.jpg")
+}
+	body{
+	margin: 0;
+}
+	
+		
+    .navigation {
+    width: 960px;
+		
+    margin-right: auto;
+    margin-left: auto;
+    background-image: url(bbdv2/Images/fleecefabric.jpg);
+}
+		.hotkeys{
+			font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+			font-size: 11px;
+			line-height: 20px;
+			color: crimson;
+			display: inline;
+			float: right;
+			margin: 0px; 20px;
+		}
+	
+    .mainbackground {
+    height: 600px;
+    width: 960px;
+    margin-right: auto;
+    margin-left: auto; 
+    border: 2px solid #EB730C;
+
+}
+    .image-container {
+    height: 288px;
+    width: 900px;
+    position: relative;
+    transition: left 2s;
+    margin-top: -578px;
+    margin-left: 28px;
+}
+ 
+    border: 0px dotted #DE7C04;
+		
+}
+   
+    </style>
